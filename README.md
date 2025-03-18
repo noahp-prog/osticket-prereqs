@@ -11,7 +11,7 @@ This is an easy to follow guide to installing osTicket, an open source ticketing
 
 <h2>Environments and Technologies Used</h2>
 
-- Windows 10  
+- Windows 10 (22H2)
 - Microsoft Azure (Virtual Machines)
 - Remote Desktop (RDP)
 - Internet Information Services (IIS)
