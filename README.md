@@ -109,6 +109,21 @@ php_opcache.dll</p>
 
 ![image](https://github.com/user-attachments/assets/8b570021-6bc2-4059-9b4e-f09d721a1f2c)
 
+After enabling, reload osTicket in your browser and observe the changes.
+
+![image](https://github.com/user-attachments/assets/d3081fa0-6aa0-486a-a17f-c14d242c6e2d)
+
+The next thing we need to do is rename the ost-sampleconfig.php to, ost-config.php</p>
+From C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+
+![image](https://github.com/user-attachments/assets/b54b466e-30d0-4f41-b877-cab53b830432)
+
+Now, right click the file you just renamed and go to properties -> security -> advanced.</p>
+Inside the permissions window, disable inheritance, and add a new principal for "Everyone", give full control.
+
+![image](https://github.com/user-attachments/assets/af2240e1-3e04-4e8c-acd1-6b383c1d7119)
+
 
 
 
