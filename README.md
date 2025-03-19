@@ -23,7 +23,7 @@ This is an easy to follow guide to installing osTicket, an open source ticketing
 - Install HeidiSQL
 - Install MySQL
 - Install PHP
-- Instal Microsoft Visual C++ Redistributable
+- Install Microsoft Visual C++ Redistributable
 
 <h2>Installation Steps</h2>
 
