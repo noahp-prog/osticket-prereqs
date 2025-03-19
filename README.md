@@ -79,6 +79,27 @@ Register this path inside IIS (PHP Manager -> C:\PHP\php-cgi.exe)
 
  ![image](https://github.com/user-attachments/assets/dabe3d50-8b59-4fa3-ba86-79b1dd51e693)
 
+ # <div style="text-align: center;"> Installing osTicket
+
+ After php-cgi.exe is registered, go into the zip file you downloaded, extract osticket, and copy the upload folder and paste it into the wwwroot folder. After pasting, rename the folder to **osTicket**.</p>
+ (C:) -> inetpub -> wwwroot
+
+ ![image](https://github.com/user-attachments/assets/a67974f4-897b-4b7b-88fc-78ce38579f33)
+
+ Now reload IIS, (click stop then start.)
+
+![image](https://github.com/user-attachments/assets/82466b2c-13fd-4067-895d-90104283b74b)
+
+Next, in IIS click "Browse *:80"
+
+![image](https://github.com/user-attachments/assets/ac8422d6-db5d-4976-a669-149f53f36635)
+
+
+
+
+
+
+
 
 
 
