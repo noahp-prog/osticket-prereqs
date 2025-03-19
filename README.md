@@ -6,7 +6,7 @@
 
 This is an easy to follow guide to installing osTicket, an open source ticketing system.<br />
 
-- # [Required Files](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
+# [Required Files](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 
 
 
