@@ -120,9 +120,50 @@ To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 ![image](https://github.com/user-attachments/assets/b54b466e-30d0-4f41-b877-cab53b830432)
 
 Now, right click the file you just renamed and go to properties -> security -> advanced.</p>
-Inside the permissions window, disable inheritance, and add a new principal for "Everyone", give full control.
+Inside the permissions window, disable inheritance, remove all. Add a new principal for "Everyone", give full control.
 
 ![image](https://github.com/user-attachments/assets/af2240e1-3e04-4e8c-acd1-6b383c1d7119)
+
+Go back to your broswer and continue osTicket setup.</p>
+Name your helpdesk, and setup an email. This email will recieve emails from customers.
+
+![image](https://github.com/user-attachments/assets/d32f5a5f-8b0d-4d67-a663-91472315c42a)
+
+From the osTicket zip file you downloaded, install HeidiSQL.
+
+![image](https://github.com/user-attachments/assets/f453bdee-c5c0-4459-a2e5-81d3920b7d4c)
+
+After HeidiSQL is installed, right click to create a new session.</p>
+The username and password will be the ones you setup when installing MySQL.</p>
+Click "open".
+
+![image](https://github.com/user-attachments/assets/3dfb2ec0-0efa-40c5-a489-06de52096096)
+
+Inside the new seesion, right click and create a new database.
+
+![image](https://github.com/user-attachments/assets/fe9ca6eb-b844-4cea-88a8-956248776e0f)
+
+Name the database "**osTicket**", exactly as seen.
+
+![image](https://github.com/user-attachments/assets/f5eda9e6-1417-41b1-bf6a-810d87e568ef)
+
+Continue seeting up osTicket in browser.</p>
+
+MYSQL Database: osTicket</p>
+MySQL Username: "your username"</p>
+MySQL Password: "your password"</p>
+
+![image](https://github.com/user-attachments/assets/81fa8a19-9a15-4583-921f-59a80a1f1149)
+
+Click "Install now" Congrats! You've installed osTicket!
+
+![image](https://github.com/user-attachments/assets/2a98c53a-6bad-4d60-96b9-3d2bc67baa6d)
+
+
+
+
+
+
 
 
 
