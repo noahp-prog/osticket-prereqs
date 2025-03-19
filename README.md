@@ -6,6 +6,7 @@
 
 This is an easy to follow guide to installing osTicket, an open source ticketing system.<br />
 
+[Required Files](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 
 
 
@@ -40,6 +41,13 @@ Control Panel -> Uninstall a Program -> Turn Windows Features on or off</p>
 In the features window, enable Internet Information Services -> World Wide Web Services -> Application Development Features, enable CGI
 
 ![image](https://github.com/user-attachments/assets/06b5a116-a4f5-4b80-bbe2-c1b2e6c67b2c)
+
+Now, unzip the zip file you downloaded. Open the folder and install PHP Manager</p>
+(Located at the top of the page at the "required files" link)
+
+![image](https://github.com/user-attachments/assets/d67fed57-b156-4996-bf3c-a6e0cf38752d)
+
+
 
 
 
