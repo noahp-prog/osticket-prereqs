@@ -35,6 +35,15 @@ Next, copy the public Ip Address of your VM, and connect via Remote Desktop, usi
 
 ![image](https://github.com/user-attachments/assets/73ac104c-db04-4612-8ab6-20bc4bfa45c2)
 
+Now inside the Windows 10 VM, we need to enable IIS with CGI.</p>
+Control Panel -> Uninstall a Program -> Turn Windows Features on or off</p>
+In the features window, enable Internet Information Services -> World Wide Web Services -> Application Development Features, enable CGI
+
+![image](https://github.com/user-attachments/assets/06b5a116-a4f5-4b80-bbe2-c1b2e6c67b2c)
+
+
+
+
 
 
 
