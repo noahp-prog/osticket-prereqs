@@ -6,7 +6,7 @@
 
 This is an easy to follow guide to installing osTicket, an open source ticketing system.<br />
 
-[Required Files](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
+# [Required Files](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 
 
 
@@ -63,6 +63,16 @@ Next, we are going to install Microsoft Visual C++ Redistributable.</p>
 Agree to the terms and install.
 
 ![image](https://github.com/user-attachments/assets/27d167f2-7849-42b8-ae7d-e58c53e2869c)
+
+We are now going to install MySQL. Choose "typical setup", once installed, launch the MySQL Configuration Wizard.
+
+![image](https://github.com/user-attachments/assets/01d3c2f8-e7b6-40d2-a46a-9ad88f8907f2)
+
+Now, inside the configuration wizard, choose "standard configuration" then setup a username and password that will be used to access your osTicket database.
+
+![image](https://github.com/user-attachments/assets/7566db98-732c-436a-bf6d-e2cc74b66eb0)
+
+
 
 
 
