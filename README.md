@@ -42,10 +42,33 @@ In the features window, enable Internet Information Services -> World Wide Web S
 
 ![image](https://github.com/user-attachments/assets/06b5a116-a4f5-4b80-bbe2-c1b2e6c67b2c)
 
-Now, unzip the zip file you downloaded. Open the folder and install PHP Manager</p>
-(Located at the top of the page at the "required files" link)
+Now, unzip the zip file you downloaded. Open the folder and install PHP Manager.</p>
+[Files Located Here](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) as well.
 
 ![image](https://github.com/user-attachments/assets/d67fed57-b156-4996-bf3c-a6e0cf38752d)
+
+From the same folder, accept the terms and install Rewrite Module.
+
+![image](https://github.com/user-attachments/assets/27792d1d-aacb-4245-9160-721e7f6ba814)
+
+Once installed, navigate to the (C:) Drive, and create a folder there called **PHP**.
+
+![image](https://github.com/user-attachments/assets/dbe02db4-ab46-451a-ad65-27b872c3db70)
+
+After the PHP folder is created, extract PHP 7.3.8 to the PHP folder you created on the (C:) Drive.
+
+![image](https://github.com/user-attachments/assets/0ff6d663-c00c-458e-92b6-26db4cc5804f)
+
+Next, we are going to install Microsoft Visual C++ Redistributable.</p>
+Agree to the terms and install.
+
+![image](https://github.com/user-attachments/assets/27d167f2-7849-42b8-ae7d-e58c53e2869c)
+
+
+
+
+
+
 
 
 
