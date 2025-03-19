@@ -72,6 +72,12 @@ Now, inside the configuration wizard, choose "standard configuration" then setup
 
 ![image](https://github.com/user-attachments/assets/7566db98-732c-436a-bf6d-e2cc74b66eb0)
 
+We are now going to launch IIS as an admin. From inside IIS, click "Register new PHP verison".</p>
+Register this path inside IIS (PHP Manager -> C:\PHP\php-cgi.exe)
+
+ ![image](https://github.com/user-attachments/assets/64ba48c4-715d-4c20-8501-c78ad5eb1139)
+
+ ![image](https://github.com/user-attachments/assets/dabe3d50-8b59-4fa3-ba86-79b1dd51e693)
 
 
 
