@@ -6,14 +6,14 @@
 
 This is an easy to follow guide to installing osTicket, an open source ticketing system.<br />
 
-# [Required Files](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
+- # [Required Files](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 
 
 
 <h2>Environments and Technologies Used</h2>
 
 - Windows 10 (22H2)
-- Microsoft Azure (Virtual Machines)
+- Microsoft Azure (Virtual Machine)
 - Remote Desktop (RDP)
 - Internet Information Services (IIS)
 
