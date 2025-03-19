@@ -27,6 +27,21 @@ This is an easy to follow guide to installing osTicket, an open source ticketing
 
 <h2>Installation Steps</h2>
 
+First, create a resource group inside of Azure. Then, inside that resource group, create a Virtual Machine (VM). Choose a username and password, we'll be using them to connect to the VM using Remote Desktop (RDP). When creating the Virtual Machine (VM), allow Azure to create a new Virtual Network (Vnet).
+
+![image](https://github.com/user-attachments/assets/aef8e8f1-3d8f-4c22-a7cf-81f78f553ce2)
+
+Next, copy the public Ip Address of your VM, and connect via Remote Desktop, using the username and password you setup.
+
+![image](https://github.com/user-attachments/assets/73ac104c-db04-4612-8ab6-20bc4bfa45c2)
+
+
+
+
+
+
+
+
 
 
 
