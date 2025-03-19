@@ -90,9 +90,26 @@ Register this path inside IIS (PHP Manager -> C:\PHP\php-cgi.exe)
 
 ![image](https://github.com/user-attachments/assets/82466b2c-13fd-4067-895d-90104283b74b)
 
-Next, in IIS click "Browse *:80"
+Next, in the IIS Manager click "Browse *:80 (http)" This will load the osTicket website in your browser.
 
 ![image](https://github.com/user-attachments/assets/ac8422d6-db5d-4976-a669-149f53f36635)
+
+After the site loads, observe at the bottom that certain extensions that are required aren't enabled. We need to enable these.
+
+![image](https://github.com/user-attachments/assets/17405aa6-ff38-438c-ad74-cff84da1264a)
+
+Open the IIS Manager and click PHP Manager. Inside PHP Manager, scroll down and click "enable or disable an extension".
+
+![image](https://github.com/user-attachments/assets/aa27a2bb-edef-44a9-af3f-286e7da6dca3)
+
+Now, enable these extensions.</p>
+php_imap.dll</p>
+php_intl.dll</p>
+php_opcache.dll</p>
+
+![image](https://github.com/user-attachments/assets/8b570021-6bc2-4059-9b4e-f09d721a1f2c)
+
+
 
 
 
