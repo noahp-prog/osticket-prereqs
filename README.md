@@ -113,7 +113,7 @@ After enabling, reload osTicket in your browser and observe the changes.
 
 ![image](https://github.com/user-attachments/assets/d3081fa0-6aa0-486a-a17f-c14d242c6e2d)
 
-The next thing we need to do is rename the ost-sampleconfig.php to, ost-config.php</p>
+The next thing we need to do is rename the ost-sampleconfig.php to, ost-config.php.</p>
 From C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
 To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 
@@ -155,7 +155,7 @@ MySQL Password: "your password"</p>
 
 ![image](https://github.com/user-attachments/assets/81fa8a19-9a15-4583-921f-59a80a1f1149)
 
-Click "Install now" Congrats! You've installed osTicket!
+Click "Install now". Congrats! You've installed osTicket!
 
 ![image](https://github.com/user-attachments/assets/2a98c53a-6bad-4d60-96b9-3d2bc67baa6d)
 
