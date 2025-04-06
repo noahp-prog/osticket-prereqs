@@ -72,7 +72,7 @@ Now, inside the configuration wizard, choose "standard configuration" then setup
 
 ![image](https://github.com/user-attachments/assets/7566db98-732c-436a-bf6d-e2cc74b66eb0)
 
-We are now going to launch IIS as an admin. From inside IIS, click "Register new PHP verison".</p>
+We are now going to launch IIS as an admin. From inside IIS, click "Register new PHP verison"</p>
 Register this path inside IIS (PHP Manager -> C:\PHP\php-cgi.exe)
 
  ![image](https://github.com/user-attachments/assets/64ba48c4-715d-4c20-8501-c78ad5eb1139)
@@ -98,7 +98,7 @@ After the site loads, observe at the bottom that certain extensions that are req
 
 ![image](https://github.com/user-attachments/assets/17405aa6-ff38-438c-ad74-cff84da1264a)
 
-Open the IIS Manager and click PHP Manager. Inside PHP Manager, scroll down and click "enable or disable an extension".
+Open the IIS Manager and click PHP Manager. Inside PHP Manager, scroll down and click "enable or disable an extension"
 
 ![image](https://github.com/user-attachments/assets/aa27a2bb-edef-44a9-af3f-286e7da6dca3)
 
@@ -135,7 +135,7 @@ From the osTicket zip file you downloaded, install HeidiSQL.
 
 After HeidiSQL is installed, right click to create a new session.</p>
 The username and password will be the ones you setup when installing MySQL.</p>
-Click "open".
+Click "open"
 
 ![image](https://github.com/user-attachments/assets/3dfb2ec0-0efa-40c5-a489-06de52096096)
 
@@ -155,7 +155,7 @@ MySQL Password: "your password"</p>
 
 ![image](https://github.com/user-attachments/assets/81fa8a19-9a15-4583-921f-59a80a1f1149)
 
-Click "Install now". Congrats! You've installed osTicket!
+Click "Install now." Congrats! You've installed osTicket!
 
 ![image](https://github.com/user-attachments/assets/2a98c53a-6bad-4d60-96b9-3d2bc67baa6d)
 
